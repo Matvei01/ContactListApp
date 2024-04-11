@@ -5,8 +5,6 @@
 //  Created by Matvei Khlestov on 12.04.2024.
 //
 
-import Foundation
-
 struct Person {
     
     let name: String

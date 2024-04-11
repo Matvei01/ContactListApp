@@ -16,6 +16,7 @@
 		1AC10A7A2BC8571700551F72 /* SectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC10A792BC8571700551F72 /* SectionViewController.swift */; };
 		1AC10A822BC8709B00551F72 /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC10A812BC8709B00551F72 /* DataStore.swift */; };
 		1AC10A842BC870C100551F72 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC10A832BC870C100551F72 /* Person.swift */; };
+		1AC10A862BC8737D00551F72 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC10A852BC8737D00551F72 /* TabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		1AC10A792BC8571700551F72 /* SectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionViewController.swift; sourceTree = "<group>"; };
 		1AC10A812BC8709B00551F72 /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 		1AC10A832BC870C100551F72 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		1AC10A852BC8737D00551F72 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				1AC10A772BC8568800551F72 /* ContactListViewController.swift */,
 				1AC10A672BC855E600551F72 /* ContactDetailsViewController.swift */,
 				1AC10A792BC8571700551F72 /* SectionViewController.swift */,
+				1AC10A852BC8737D00551F72 /* TabBarController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AC10A682BC855E600551F72 /* ContactDetailsViewController.swift in Sources */,
+				1AC10A862BC8737D00551F72 /* TabBarController.swift in Sources */,
 				1AC10A822BC8709B00551F72 /* DataStore.swift in Sources */,
 				1AC10A7A2BC8571700551F72 /* SectionViewController.swift in Sources */,
 				1AC10A782BC8568800551F72 /* ContactListViewController.swift in Sources */,
